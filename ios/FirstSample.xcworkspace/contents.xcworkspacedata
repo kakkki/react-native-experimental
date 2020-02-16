@@ -2,7 +2,7 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "group:FirstSample.xcodeproj">
+      location = "group:/Users/atsukikakehi/swing/react-native-series/react-native-experimental/ios/react-native-experimental.xcodeproj">
    </FileRef>
    <FileRef
       location = "group:Pods/Pods.xcodeproj">
